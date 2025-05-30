@@ -4,13 +4,13 @@ This app is built on Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repo to your local storage
+2. run flutter doctor doctor "to check if you have all environment variables and dependencies ready" if not install all necessary files
+3. run this command "flutter run" in your termninal
 
-A few resources to get you started if this is your first Flutter project:
+Note:
+YOU'LL NEED AN EMULATOR FOR THE APP TO RUN ON IF NOT, YOU'LL NEED A PHYSICAL DEVICE TO RUN THE APP
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter will build your apk file using Gladle so make sure all its dependencies are installed properly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Happy Temperaturing :)
