@@ -1,6 +1,6 @@
 # temperature_conversion_app
 
-A new Flutter project.
+This app is built on Flutter.
 
 ## Getting Started
 
