@@ -2,6 +2,13 @@
 
 This app is built on Flutter.
 
+## App Overview
+# 1. Portrait
+![Portrait](https://github.com/user-attachments/assets/51f4879e-4e4b-49ee-8c49-a7a8248012ea)
+
+# 2. Landscape
+![Landscape](https://github.com/user-attachments/assets/160b12b9-fba2-439f-a373-149b94f59870)
+
 ## Getting Started
 
 1. Clone this repo to your local storage
